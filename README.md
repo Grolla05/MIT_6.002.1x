@@ -1,11 +1,5 @@
 # MIT 6.002.1x – My Journey in the Circuits and Electronics Course
 
-<p align="center">
-  <img src="https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/6-002s07.jpg" alt="MIT Circuits and Electronics" width="60%"/>
-</p>
-
----
-
 ## 🎓 Certificate
 
 <!-- Substitua o link abaixo pelo seu certificado quando disponível -->
@@ -36,7 +30,7 @@ The MIT 6.002.1x course covers the following fundamental concepts:
 Each week of the course focuses on a specific set of concepts, with theoretical materials and practical exercises.
 
 <p align="center">
-  <img src="https://www.electronics-tutorials.ws/wp-content/uploads/2018/05/resistor-resistor-symbol.png" alt="Example Circuit" width="40%"/>
+  <img src="CC_MIT.png" alt="Example Circuit" width="40%"/>
 </p>
 
 ---
