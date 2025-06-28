@@ -4,7 +4,7 @@
 
 <!-- Substitua o link abaixo pelo seu certificado quando disponível -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Certificate-Coming%20Soon-lightgrey?style=for-the-badge&logo=mit" alt="MIT 6.002.1x Certificate" width="300"/>
+  <img src="https://img.shields.io/badge/Certificate-Coming%20Soon-lightgrey?style=for-the-badge&logo=mit" alt="MIT 6.002.1x Certificate" width="450"/>
 </p>
 
 ---
@@ -14,6 +14,9 @@
 This repository documents my entire journey in the MIT 6.002.1x – Circuits and Electronics course, offered by the Massachusetts Institute of Technology (MIT) on the edX platform. Here you will find notes, study materials, summaries, and weekly exercise solutions, all organized to facilitate tracking my progress and learning.
 
 The goal of this space is to serve as a portfolio of the knowledge acquired, as well as to share useful resources for other students interested in the subject.
+<p align="center">
+  <img src="">
+</p>
 
 ---
 
