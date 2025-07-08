@@ -4,7 +4,7 @@
 
 <!-- Substitua o link abaixo pelo seu certificado quando disponível -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Certificate-Coming%20Soon-lightgrey?style=for-the-badge&logo=mit" alt="MIT 6.002.1x Certificate" width="450"/>
+  <img src="Certificate.jpg" alt="MIT 6.002.1x Certificate" width="1000px"/>
 </p>
 
 ---
@@ -44,10 +44,12 @@ The repository organization follows the weekly division of the course:
 
 ```
 MIT_6.002.1x/
+├── Leitura de Acompanhamento/  # Follow-up reading of the material (handout)
+├── Week 0/  # Important electrical and related safety notices
 ├── Week 1/  # Introduction and basic concepts
 ├── Week 2/  # Digital abstraction, superposition, Thevenin and Norton
-├── Week 3/  # [Content to be added]
-├── Week 4/  # [Content to be added]
+├── Week 3/  # Non-linear circuits and digital electronics inside
+├── Week 4/  # Amplifiers and incremental analysis
 ```
 
 Each folder contains PDFs with study materials and, in the future, exercise solutions and notes.
